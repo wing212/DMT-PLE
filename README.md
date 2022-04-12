@@ -53,7 +53,7 @@ Afterwards, your data directory structure should look like these:
 ```js
 ./prepare_coco.sh
 ```
-4. Run the code.For example, run DMT with different pre-trained weights:
+4. Run the code.For example, run DMT+PLE with different pre-trained weights:
 ```js
 ./dmt_ple-voc-20-1.sh
 ```
